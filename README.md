@@ -36,14 +36,6 @@ python3 scripts/profile_raw_dataset.py
 
 Hace falta Python 3 y pandas (`requirements.txt`). El perfilador imprime el diagnóstico y lo guarda en `entregables/diagnostico_raw_perfilamiento.json`.
 
-## Integrantes
-
-| Integrante | Rol en este corte |
-|------------|-------------------|
-| Daniel Alejandro Monroy | Viaje del dato y estructura del repositorio |
-| Kevin Sebastian Soto | Archivo RAW y perfilamiento |
-| Samuel Eduardo Preciado | Contrato, grano, modelo conceptual y documentación |
-
 ## Qué sigue
 
 Semanas 4 y 5: ETL hacia STAGING, archivo de rechazados y las reglas del contrato que este perfilador todavía no aplica (VIN de 17 caracteres con alfabeto restringido, rango de kilometraje y rango de voltaje).
