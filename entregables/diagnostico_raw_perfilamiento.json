@@ -1,0 +1,62 @@
+{
+  "archivo": "dataset_sucio_formularios_vehiculos_carrera_arango.csv",
+  "registros": 10000,
+  "columnas": 34,
+  "tamano_mb": 6.96,
+  "nulos_por_columna_pct": {
+    "id_registro": 0.86,
+    "user_id": 0.0,
+    "numero_formulario": 0.0,
+    "tipo_formulario": 0.0,
+    "email_destino": 0.64,
+    "fecha_ingreso": 0.0,
+    "fecha_salida": 49.61,
+    "fecha_registro": 0.93,
+    "ciudad": 0.0,
+    "departamento": 0.0,
+    "marca": 0.0,
+    "chasis_vin": 0.0
+  },
+  "fecha_ingreso_invalida_pct": 9.7,
+  "kilometraje_invalido_pct": 4.47,
+  "chasis_vin_invalido_pct": 5.62,
+  "id_registro_duplicados": 183,
+  "tipo_formulario_distribucion": {
+    "ingreso": 4921,
+    "salida": 4804,
+    "IN": 53,
+    " salida": 48,
+    "SALIDA": 47,
+    "salída": 46,
+    "INGRESO": 44,
+    "ingreso ": 37
+  },
+  "ciudad_top_10": {
+    "Bogotá": 547,
+    "Medellín": 541,
+    "Villavicencio": 494,
+    "Sincelejo": 492,
+    "Cali": 488,
+    "Cúcuta": 488,
+    "Armenia": 486,
+    "Cartagena": 482,
+    "Manizales": 479,
+    "Popayán": 475
+  },
+  "marca_distribucion": {
+    "HYUNDAI": 1657,
+    "DFSK": 1648,
+    "MERCEDES": 1610,
+    "RENAULT": 1607,
+    "FORD": 1571,
+    "FOTÓN": 1525,
+    "ford": 61,
+    "dfsk": 61,
+    "fotón": 58,
+    "mercedes": 57,
+    "hyundai": 52,
+    "FOTON": 52,
+    "renault": 41
+  },
+  "json_corrupto_muestra_pct": 26.15
+}
